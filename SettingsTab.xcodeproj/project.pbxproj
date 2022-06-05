@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D76CE1B284D11F200E6FF72 /* SwitchTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D76CE1A284D11F200E6FF72 /* SwitchTableViewCell.swift */; };
 		3DD6DD3C284A0F3C00DA7698 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD6DD3B284A0F3C00DA7698 /* AppDelegate.swift */; };
 		3DD6DD3E284A0F3C00DA7698 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD6DD3D284A0F3C00DA7698 /* SceneDelegate.swift */; };
 		3DD6DD40284A0F3C00DA7698 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD6DD3F284A0F3C00DA7698 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3D76CE1A284D11F200E6FF72 /* SwitchTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchTableViewCell.swift; sourceTree = "<group>"; };
 		3DD6DD38284A0F3C00DA7698 /* SettingsTab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SettingsTab.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DD6DD3B284A0F3C00DA7698 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DD6DD3D284A0F3C00DA7698 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				3DD6DD46284A0F3D00DA7698 /* LaunchScreen.storyboard */,
 				3DD6DD49284A0F3D00DA7698 /* Info.plist */,
 				3DD6DD4F284A16CA00DA7698 /* SettingTableViewCell.swift */,
+				3D76CE1A284D11F200E6FF72 /* SwitchTableViewCell.swift */,
 			);
 			path = SettingsTab;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				3DD6DD40284A0F3C00DA7698 /* ViewController.swift in Sources */,
 				3DD6DD3C284A0F3C00DA7698 /* AppDelegate.swift in Sources */,
+				3D76CE1B284D11F200E6FF72 /* SwitchTableViewCell.swift in Sources */,
 				3DD6DD50284A16CA00DA7698 /* SettingTableViewCell.swift in Sources */,
 				3DD6DD3E284A0F3C00DA7698 /* SceneDelegate.swift in Sources */,
 			);
